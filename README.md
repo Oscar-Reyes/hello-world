@@ -1,3 +1,3 @@
 # hello-world
 Repository
-This is a test (a brancho from the original file)
+This is a test (a branch from the original file)
